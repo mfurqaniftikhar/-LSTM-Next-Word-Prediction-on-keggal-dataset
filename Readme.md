@@ -205,14 +205,3 @@ Decode: "fox" (or other predicted word)
 Saylani Mass IT Training (SMIT)  
 Karachi, Pakistan
 
-Building practical AI solutions for real-world problems
-
----
-
-## 📄 License
-
-MIT License
-
----
-
-**Ready to predict words faster than you can think!** 🚀
